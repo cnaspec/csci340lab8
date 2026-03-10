@@ -30,7 +30,7 @@ public static class SeedData
                     Author = "Kazuo Ishiguro",
                     Genre = "Historical",
                     FirstPublished = DateTime.Parse("1989-5-12"),
-                    IBSN = 0679731725
+                    IBSN = "0679731725"
                 },
 
                 new Book
@@ -39,7 +39,7 @@ public static class SeedData
                     Author = "Kazuo Ishiguro",
                     Genre = "Science Fiction",
                     FirstPublished = DateTime.Parse("2005-4-12"),
-                    IBSN = 9781400078776
+                    IBSN = "9781400078776"
                 },
 
                 new Book
@@ -48,7 +48,7 @@ public static class SeedData
                     Author = "Penelope Fitzgerald",
                     Genre = "Historical",
                     FirstPublished = DateTime.Parse("1978-1-5"),
-                    IBSN = 0395869463
+                    IBSN = "0395869463"
                 }
 
 
