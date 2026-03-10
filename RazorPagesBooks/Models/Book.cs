@@ -11,5 +11,5 @@ public class Book
 
     [DataType(DataType.Date)]
     public DateTime FirstPublished { get; set; }
-    public int IBSN { get; set; }
+    public long IBSN { get; set; }
 }
